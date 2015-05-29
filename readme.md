@@ -56,3 +56,4 @@ Simple todo list for new WordPress websites.
 	- [ ] oEmbed Gist
 	- [ ] Enable Media Replace
 - [ ] Install and configure optional plugins
+
