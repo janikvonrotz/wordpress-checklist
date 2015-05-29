@@ -57,3 +57,37 @@ Simple todo list for new WordPress websites.
 	- [ ] Enable Media Replace
 - [ ] Install and configure optional plugins
 
+## Example content
+
+```
+# This is sample content 
+ 
+Lorem ipsum dolor sit amet, mel no prima tation adolescens, at has numquam elaboraret, duo ex detraxit sensibus. Audire albucius corrumpit et per, ea mel nonumy audiam verterem. Nam ad illud movet causae, mel an nostrud efficiantur. No vis tota adolescens adipiscing. Sint eloquentiam reprehendunt quo ut, cu quo feugiat fierent gloriatur. 
+ 
+## Instagram Post 
+ 
+http://instagram.com/p/vNalF-BKk6/ 
+ 
+http://instagram.com/p/yohLKDRAxi/ 
+ 
+## GitHub Gist code 
+https://gist.github.com/janikvonrotz/11531335 
+ 
+## Syntax Highlighter 
+[code lang="js"] 
+/** 
+ * IEMobile responsive fix 
+ */ 
+ 
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) { 
+    var msViewportStyle = document.createElement("style"); 
+    msViewportStyle.appendChild( 
+        document.createTextNode( 
+            "@-ms-viewport{width:auto!important}" 
+        ) 
+    ); 
+    document.getElementsByTagName("head")[0]. 
+        appendChild(msViewportStyle); 
+} 
+[/code] 
+```
