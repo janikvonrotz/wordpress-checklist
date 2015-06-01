@@ -31,31 +31,32 @@ Simple todo list for new WordPress websites.
 ## Plugins
 
 - [ ] Install and configure plugins
-	- [ ] SyntaxHighlighter Evolved
-	- [ ] Disqus Comment System
+	- [ ] [SyntaxHighlighter Evolved](http://wordpress.org/plugins/syntaxhighlighter/ )
+	- [ ] [Disqus Comment System](http://wordpress.org/plugins/disqus-comment-system/ )
 	 	- [ ] Enable disqus comments
 	 	- [ ] Register the website
 	 	- [ ] Enable guest commenting on disqus admin page
-	- [ ] BackUpWordPress
+	- [ ] [BackUpWordPress](http://wordpress.org/plugins/backupwordpress/ )
 	 	- [ ] Daily 7 times at 9 o'clock
 	 	- [ ] Weekly 2 times at 10 o'clock
-	- [ ] WP-Piwik
+	- [ ] [WP-Piwik](http://wordpress.org/plugins/wp-piwik/ )
 	 	- [ ] Add Piwik url
 	 	- [ ] Add Tracking code
-	- [ ] Jetpack by WordPress.com
+	- [ ] [Jetpack by WordPress.com](http://wordpress.org/plugins/jetpack/ )
 	 	- [ ] Login with Wordpress.com Account
 	 	- [ ] Add Markdown support
 	 	- [ ] Enable Website-Symbol and add favicon
 	 	- [ ] Enable Monitor
 	 	- [ ] Enable Manage
-	- [ ] Image Captcha
+	- [ ] [Image Captcha](https://wordpress.org/plugins/image-captcha/screenshots/ )
 	 	- [ ] Enable for add comments
-	- [ ] oEmbed Instagram
-	- [ ] Sugar Events Calendar Lite
-	- [ ] Protect
-	- [ ] oEmbed Gist
-	- [ ] Enable Media Replace
+	- [ ] [oEmbed Gist](http://wordpress.org/plugins/oembed-gist/ )
+	- [ ] [Sugar Events Calendar Lite](http://wordpress.org/plugins/sugar-calendar-lite/ )
+	- [ ] [oEmbed Instagram](http://wordpress.org/plugins/oembed-instagram/ )
+	- [ ] [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/ )
 - [ ] Install and configure optional plugins
+	- [ ] [Widgets on Pages](https://wordpress.org/plugins/widgets-on-pages/)
+	- [ ] [qTranslate Plus](https://wordpress.org/plugins/qtranslate-xp/)
 
 ## Example content
 
