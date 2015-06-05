@@ -7,15 +7,15 @@ Simple todo list for new WordPress websites.
 
 - [ ] Install Wordpess
 	- [ ] Change admin username
-	- [ ] Save password
-	- [ ] Mail: hostmaster@example.com
+	- [ ] Store password
+	- [ ] Set mail: hostmaster@example.com
 - [ ] Add template and delete unused templates
 - [ ] Disable pingbacks and trackbacks (uncheck Allow link notifications from other blogs)
 - [ ] Update Perma Link Structure to day and anme: /%year%/%monthnum%/%day%/%postname%/
 - [ ] Update site info
 	- [ ] title
 	- [ ] description
-- [ ] Update Administrator
+- [ ] Update administrator
 	- [ ] First and lastname
 	- [ ] Disable visual editor 
 - [ ] Add customer user
@@ -41,7 +41,7 @@ Simple todo list for new WordPress websites.
 	 	- [ ] Weekly 2 times at 10 o'clock
 	- [ ] [WP-Piwik](http://wordpress.org/plugins/wp-piwik/ )
 	 	- [ ] Add Piwik url
-	 	- [ ] Add Tracking code
+	 	- [ ] Add tracking code
 	- [ ] [Jetpack by WordPress.com](http://wordpress.org/plugins/jetpack/ )
 	 	- [ ] Login with Wordpress.com Account
 	 	- [ ] Add Markdown support
