@@ -51,13 +51,12 @@ Simple todo list for new WordPress websites.
 	- [ ] [Image Captcha](https://wordpress.org/plugins/image-captcha/screenshots/ )
 	 	- [ ] Enable for add comments
 	- [ ] [oEmbed Gist](http://wordpress.org/plugins/oembed-gist/ )
-	- [ ] [Sugar Events Calendar Lite](http://wordpress.org/plugins/sugar-calendar-lite/ )
-	- [ ] [oEmbed Instagram](http://wordpress.org/plugins/oembed-instagram/ )
 	- [ ] [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/ )
 	- [ ] [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/)
 - [ ] Install and configure optional plugins
 	- [ ] [Widgets on Pages](https://wordpress.org/plugins/widgets-on-pages/)
 	- [ ] [qTranslate Plus](https://wordpress.org/plugins/qtranslate-xp/)
+	- [ ] [Sugar Events Calendar Lite](http://wordpress.org/plugins/sugar-calendar-lite/ )
 
 ## Example content
 
