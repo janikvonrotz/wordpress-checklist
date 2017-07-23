@@ -32,10 +32,6 @@ Simple todo list for new WordPress websites.
 
 - [ ] Install and configure plugins
 	- [ ] [SyntaxHighlighter Evolved](http://wordpress.org/plugins/syntaxhighlighter/ )
-	- [ ] [Disqus Comment System](http://wordpress.org/plugins/disqus-comment-system/ )
-	 	- [ ] Enable disqus comments
-	 	- [ ] Register the website
-	 	- [ ] Enable guest commenting on disqus admin page
 	- [ ] [BackUpWordPress](http://wordpress.org/plugins/backupwordpress/ )
 	 	- [ ] Daily 7 times at 9 o'clock
 	 	- [ ] Weekly 2 times at 10 o'clock
