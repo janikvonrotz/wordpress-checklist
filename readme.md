@@ -44,9 +44,6 @@ Simple todo list for new WordPress websites.
 	 	- [ ] Enable Website-Symbol and add favicon
 	 	- [ ] Enable Monitor
 	 	- [ ] Enable Manage
-	- [ ] [Image Captcha](https://wordpress.org/plugins/image-captcha/screenshots/ )
-	 	- [ ] Enable for add comments
-	- [ ] [oEmbed Gist](http://wordpress.org/plugins/oembed-gist/ )
 	- [ ] [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/ )
 	- [ ] [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/)
 - [ ] Install and configure optional plugins
