@@ -45,6 +45,7 @@ Simple todo list for new WordPress websites.
 		- [ ] Enable Likes on Comments
 		- [ ] Let users comment with Accounts
 		- [ ] Enable Markdown for Comments
+		- [ ] Let users like comments
 	- [ ] [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/ )
 	- [ ] [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/)
 - [ ] Install and configure optional plugins
