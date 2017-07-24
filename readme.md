@@ -42,8 +42,9 @@ Simple todo list for new WordPress websites.
 	 	- [ ] Login with Wordpress.com Account
 	 	- [ ] Add Markdown support
 	 	- [ ] Enable Website-Symbol and add favicon
-	 	- [ ] Enable Monitor
-	 	- [ ] Enable Manage
+		- [ ] Enable Likes on Comments
+		- [ ] Let users comment with Accounts
+		- [ ] Enable Markdown for Comments
 	- [ ] [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/ )
 	- [ ] [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/)
 - [ ] Install and configure optional plugins
